@@ -95,28 +95,3 @@ print(output)
 
 output = "Did you know that " + output
 print(output)
-
-# str
-# int
-# float
-
-# bool (Boolean: True or False)
-print(type(True))
-
-is_equal =      1 == 2
-is_not_equal =  1 != 2
-is_greater =    1 > 2
-is_less =       1 < 2
-
-print(is_equal)     
-print(is_not_equal)
-print(is_greater)
-print(is_less)
-
-# CONPARISON OPERATORS
-#   ==
-#   !=
-#   >
-#   >=
-#   <
-#   <=
