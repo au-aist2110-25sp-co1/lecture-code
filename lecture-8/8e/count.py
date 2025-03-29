@@ -8,7 +8,7 @@ attendee_count = 0
 while True:
     name = input("Enter attendee: ")
     if name != "":
-        # attendees + attendees + name + "\n"
+        # attendees = attendees + name + "\n"
         attendees += name + " "
         attendee_count += 1
     else:
